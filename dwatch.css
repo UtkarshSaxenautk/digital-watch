@@ -1,0 +1,28 @@
+.clockstyle{
+    color: cornsilk;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    align-content: center;
+    text-align: center;
+    font-size: 100px;
+    border: dotted ;
+    border-color: khaki;
+    border-right-color: lightcoral;
+    border-left-color: lightgreen;
+
+
+}
+
+body
+{
+    background-color: black;
+}
+
+.Theory
+{
+    color: palegreen;
+    font: italic;
+    font-size: 80px;
+    font-weight: bolder;
+    text-align: center;
+    align-content: center;
+}
